@@ -53,7 +53,7 @@ ul li a{
    }
 
    .showcase {
-       background: url('../img/mgb.jpg') no-repeat;
+       background: url('img/Uwase2.jpg') no-repeat;
        background-size:cover;
        background-position: 0 -250px;;
        min-height: 590px;
@@ -207,7 +207,7 @@ ul li a{
   .menu-branding .portrait {
     width: 250px;
     height: 250px;
-    background-image: url("../img/kazo2.jpg");
+    background-image: url("Uwase1.jpg");
     background-size: cover;
   
     border-radius: 50%;
@@ -263,7 +263,7 @@ ul li a{
     line-height: 1.5;
   }
   body#bg-img {
-    background: url(../img/background.jpg);
+    background: url("Uwase1.jpg");
     background-attachment: fixed;
     background-size: cover;
   }
